@@ -13,7 +13,7 @@ Para la construcción del mapa se aplicó una técnica de interpolación espacia
 
 
 <figure>
-    <img src="./Mapa_geoquimico_Mn.png" width="450" height="650"
+    <img src="./Assets/Mapa_geoquimico_Mn.png" width="450" height="650"
          alt="Mapa Geoquímico de Colombia Manganeso">
     <figcaption>Mapa Geoquímico de Colombia para Manganeso.</figcaption>
 </figure>
