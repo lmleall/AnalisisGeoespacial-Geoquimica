@@ -13,6 +13,7 @@ Este repositorio albergará la información relacionada con el proyecto del curs
     <figcaption>Mapa Geoquímico de Colombia para Manganeso.</figcaption>
     </figure>
 <br></br>
+
 Para la construcción del mapa se aplicó una técnica de interpolación espacial basada en el **algoritmo modificado del Inverso de la Distancia Ponderado (IDWm)**, sin una estimación explícita de la **incertidumbre** asociada a cada predicción espacial. 
 
 Este algoritmo para estimar el valor de un punto no muestreado, toma los valores de los puntos muestreados cercanos y se pondera inversamente proporcional a su distancia al punto de interés, limitando o expandiendo la cantidad de puntos cercanos considerados. 
